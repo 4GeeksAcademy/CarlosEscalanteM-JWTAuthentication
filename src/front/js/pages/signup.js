@@ -7,7 +7,7 @@ export const Singup = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>HEllo Signup</h1>
+			<h1>Don't forget to Sign-up!</h1>
 		</div>
 	);
 };

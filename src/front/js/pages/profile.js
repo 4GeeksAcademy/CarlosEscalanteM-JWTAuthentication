@@ -15,7 +15,7 @@ export const Profile = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>HEllo PROFILE</h1>
+			<h1>'Sup Profile'</h1>
 		</div>
 	);
 };
